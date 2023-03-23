@@ -1,2 +1,3 @@
-# comm_socket
-This is a repository for the socket programming assignment for data communication
+# socket programming
+socket programming assignment for data communication coded with python.
+
